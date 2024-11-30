@@ -5136,7 +5136,7 @@ timing data from skiing training sessions.
         self.guest_menu.add_command(label="Convert to Athlete", command=self.convert_guest_to_athlete)
         self.guest_menu.add_command(label="Remove", command=self.remove_selected_guest)
 
-
+#todo : creation of ui
 
 
 
