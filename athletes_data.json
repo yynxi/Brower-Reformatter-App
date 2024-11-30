@@ -1,0 +1,79 @@
+{
+    "SQAH": [
+        {
+            "name": "Julian Brunet",
+            "bib": 1
+        },
+        {
+            "name": "Thomas Jeff Watts",
+            "bib": 2
+        },
+        {
+            "name": "Luca Fulga",
+            "bib": 3
+        },
+        {
+            "name": "Lexis Cournoyer",
+            "bib": 5
+        },
+        {
+            "name": "Vincent Larin",
+            "bib": 6
+        },
+        {
+            "name": "Charlo Goulet",
+            "bib": 4
+        }
+    ],
+    "SQAF": [
+        {
+            "name": "Julian Brunet",
+            "bib": 21
+        },
+        {
+            "name": "Thomas Jeff Watts",
+            "bib": 22
+        },
+        {
+            "name": "Luca Fulga",
+            "bib": 23
+        },
+        {
+            "name": "Charlo Goulet",
+            "bib": 24
+        },
+        {
+            "name": "Lexis Cournoyer",
+            "bib": 25
+        },
+        {
+            "name": "Vincent Larin",
+            "bib": 26
+        },
+        {
+            "name": "Simone St-Pierre",
+            "bib": 1
+        },
+        {
+            "name": "L\u00e9a Lambert",
+            "bib": 2
+        },
+        {
+            "name": "Olivia Levesque",
+            "bib": 3
+        },
+        {
+            "name": "Liz Creighton",
+            "bib": 4
+        },
+        {
+            "name": "Charlie Houde",
+            "bib": 6
+        },
+        {
+            "name": "Elsa Feliciello",
+            "bib": 7
+        }
+    ],
+    "OTHER": []
+}
