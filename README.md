@@ -3,3 +3,5 @@ An easy to use, comprehensive app to modify raw .csv data from any Brower Timing
 - Ability to assign and save team members and guest athletes.
 - Automatic sorting by run, best to worst time.
 - Highlights split differences.
+
+(Currently only works for setups with 1 split)
